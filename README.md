@@ -1,3 +1,3 @@
 # badges
 My badges I made
-\nRemove background for best experience
+\n Remove background for best experience
