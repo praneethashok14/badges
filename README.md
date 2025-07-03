@@ -1,3 +1,2 @@
 # badges
-My badges I made
-\n Remove background for best experience
+My badges I made. Remove background for best experience
